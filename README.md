@@ -15,7 +15,7 @@ Step 1. Installation
 
 ```pip install -r requirements.txt```
 
-Step 2.Useing
+Step 2.Using
 
 Merge: ```python merger.py или python merger.py```
 Edit: ```python edit.py или python edit.py```
